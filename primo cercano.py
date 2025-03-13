@@ -13,4 +13,4 @@ for n in range(2 , p + 1): #Se iteran los numeros de 2 hasta p
         m += 1
     if d == 2 : #Se evalua si el numero n tiene igual a 2 divisores, si es asi significa que es primo
         a = n
-print(f"El prmio menor o igual mas cercano a {p} es: {a}") #Se imprime el numero primo menor o igual mas cercano
+print(f"El primo menor o igual mas cercano a {p} es: {a}") #Se imprime el numero primo menor o igual mas cercano
